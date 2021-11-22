@@ -91,7 +91,7 @@
 	],
 	"RespuestasQPS1": [
 		{
-			"IdPregunta": 0,
+			"IdPregunta": 1,
 			"IdRespuesta": 0,
 			"IdQPS": 1,
 			"IdRevision": 0,
@@ -99,7 +99,7 @@
 			"TextoRespuesta": "Incorrecta"
 		},
 		{
-			"IdPregunta": 0,
+			"IdPregunta": 1,
 			"IdRespuesta": 1,
 			"IdQPS": 1,
 			"IdRevision": 0,
@@ -107,7 +107,7 @@
 			"TextoRespuesta": "Incorrecta"
 		},
 		{
-			"IdPregunta": 0,
+			"IdPregunta": 1,
 			"IdRespuesta": 2,
 			"IdQPS": 1,
 			"IdRevision": 0,
