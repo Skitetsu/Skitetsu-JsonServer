@@ -18,28 +18,28 @@
 	"EPIsNecesariasQPS": [
 		{
 			"IdEPI": 0,
-			"CodeEPI": "E-0",
+			"CodEPI": "E-0",
 			"CodFamilia": "F-0",
 			"Familia": "Familia 0",
 			"RutaFoto": "https://raw.githubusercontent.com/Skitetsu/Skitetsu-JsonServer/main/Resources/T_UpInput.png"
 		},
 		{
 			"IdEPI": 1,
-			"CodeEPI": "E-1",
+			"CodEPI": "E-1",
 			"CodFamilia": "F-0",
 			"Familia": "Familia 0",
 			"RutaFoto": "https://raw.githubusercontent.com/Skitetsu/Skitetsu-JsonServer/main/Resources/T_LeftInput.png"
 		},
 		{
 			"IdEPI": 2,
-			"CodeEPI": "E-2",
+			"CodEPI": "E-2",
 			"CodFamilia": "F-1",
 			"Familia": "Familia 1",
 			"RutaFoto": "https://raw.githubusercontent.com/Skitetsu/Skitetsu-JsonServer/main/Resources/T_UpInput.png"
 		},
 		{
 			"IdEPI": 3,
-			"CodeEPI": "E-3",
+			"CodEPI": "E-3",
 			"CodFamilia": "F-1",
 			"Familia": "Familia 1",
 			"RutaFoto": "https://raw.githubusercontent.com/Skitetsu/Skitetsu-JsonServer/main/Resources/T_LeftInput.png"
