@@ -1,22 +1,18 @@
-{
-			"EntrenamientoPendiente12345": [
+{	"EntrenamientoPendiente12345": [
+		{
+			"QPS": [
 				{
-					"QPS": [
-						{
-						[
-							"IdQPS": 0,
-							"IdRevision": 0,
-							"CodQPS": "code0",
-							"NombreQPS": "overview"
-						],
-						[
-							"IdQPS": 1,
-							"IdRevision": 1,
-							"CodQPS": "code1",
-							"NombreQPS": "myscenetraining"
-						]
-						}
-					]
+					"IdQPS": 0,
+					"IdRevision": 0,
+					"CodQPS": "code0",
+					"NombreQPS": "overview"
+				},
+				{
+					"IdQPS": 1,
+					"IdRevision": 1,
+					"CodQPS": "code1",
+					"NombreQPS": "myscenetraining"
 				}
 			]
-}
+		}
+	]}
