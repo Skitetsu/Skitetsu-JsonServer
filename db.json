@@ -1,6 +1,5 @@
 {	"EntrenamientoPendiente12345": [
-		{
-			"QPSVR": [
+
 				{
 					"IdQPS": 0,
 					"IdRevision": 0,
@@ -13,6 +12,5 @@
 					"CodQPS": "code1",
 					"NombreQPS": "myscenetraining"
 				}
-			]
-		}
+
 	]}
