@@ -51,7 +51,7 @@
 			"IdQPS": 0,
 			"IdRevision": 0,
 			"NumPregunta": 0,
-			"TextoPregunta": "La respuesta correcta es la 2",
+			"TextoPregunta": "La respuesta correcta es la Correcta",
 			"RespuestaCorrecta": 2
 		},
 		{
@@ -59,8 +59,8 @@
 			"IdQPS": 0,
 			"IdRevision": 0,
 			"NumPregunta": 0,
-			"TextoPregunta": "La respuesta correcta es la 3",
-			"RespuestaCorrecta": 3
+			"TextoPregunta": "La respuesta correcta es la Correcta",
+			"RespuestaCorrecta": 0
 		}
 	],
 	"RespuestasQPS0": [
@@ -96,7 +96,7 @@
 			"IdQPS": 1,
 			"IdRevision": 0,
 			"NumRespuesta": 0,
-			"TextoRespuesta": "Incorrecta"
+			"TextoRespuesta": "Correcta"
 		},
 		{
 			"IdPregunta": 1,
@@ -112,7 +112,7 @@
 			"IdQPS": 1,
 			"IdRevision": 0,
 			"NumRespuesta": 0,
-			"TextoRespuesta": "Correcta"
+			"TextoRespuesta": "Incorrecta"
 		}
 	]
 }
