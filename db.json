@@ -61,7 +61,7 @@
 	],
 	"Pregunta": [
 		{
-			"PreguntasQPS": [
+			"PreguntasQPS/0": [
 				{
 					"IdPregunta": 0,
 					"IdQPS": 0,
@@ -79,11 +79,49 @@
 					"RespuestaCorrecta": 3
 				}
 			]
+			
+			"PreguntasQPS/1": [
+				{
+					"IdPregunta": 0,
+					"IdQPS": 1,
+					"IdRevision": 0,
+					"NumPregunta": 0,
+					"TextoPregunta": "La respuesta correcta es la 2",
+					"RespuestaCorrecta": 2
+				},
+				{
+					"IdPregunta": 1,
+					"IdQPS": 1,
+					"IdRevision": 0,
+					"NumPregunta": 0,
+					"TextoPregunta": "La respuesta correcta es la 3",
+					"RespuestaCorrecta": 3
+				}
+			]
+			
+			"PreguntasQPS/2": [
+				{
+					"IdPregunta": 0,
+					"IdQPS": 2,
+					"IdRevision": 0,
+					"NumPregunta": 0,
+					"TextoPregunta": "La respuesta correcta es la 2",
+					"RespuestaCorrecta": 2
+				},
+				{
+					"IdPregunta": 1,
+					"IdQPS": 2,
+					"IdRevision": 0,
+					"NumPregunta": 0,
+					"TextoPregunta": "La respuesta correcta es la 3",
+					"RespuestaCorrecta": 3
+				}
+			]
 		}
 	],
 	"Respuesta": [
 		{
-			"RespuestasQPS": [
+			"RespuestasQPS/0": [
 				{
 					"IdPregunta": 0,
 					"IdRespuesta":0,
@@ -104,6 +142,33 @@
 					"IdPregunta": 0,
 					"IdRespuesta":2,
 					"IdQPS":0,
+					"IdRevision":0,
+					"NumRespuesta":0,
+					"TextoRespuesta":"Correcta"
+				}
+			]
+			
+			"RespuestasQPS/1": [
+				{
+					"IdPregunta": 0,
+					"IdRespuesta":0,
+					"IdQPS":1,
+					"IdRevision":0,
+					"NumRespuesta":0,
+					"TextoRespuesta":"Incorrecta"
+				},
+								{
+					"IdPregunta": 0,
+					"IdRespuesta":1,
+					"IdQPS":1,
+					"IdRevision":0,
+					"NumRespuesta":0,
+					"TextoRespuesta":"Incorrecta"
+				},
+								{
+					"IdPregunta": 0,
+					"IdRespuesta":2,
+					"IdQPS":1,
 					"IdRevision":0,
 					"NumRespuesta":0,
 					"TextoRespuesta":"Correcta"
