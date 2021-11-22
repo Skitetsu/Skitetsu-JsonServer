@@ -1,6 +1,4 @@
 {
-	"Versatilidad": [
-		{
 			"EntrenamientoPendiente12345": [
 				{
 					"QPS": [
@@ -19,6 +17,4 @@
 					]
 				}
 			]
-		}
-	]
 }
